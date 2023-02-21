@@ -1,2 +1,2 @@
-# sounds-familiat
+# sounds-familiar
 🔨 JS – Sounds Familiar
